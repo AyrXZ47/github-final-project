@@ -1,2 +1,12 @@
-#URL of project
+#URL of final project 
 https://github.com/AyrXZ47/github-final-project/tree/main
+
+#URL of the fork of  ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub
+ project
+https://github.com/AyrXZ47/jbbmo-Introduction-to-Git-and-GitHub
+
+#URL of the pull request
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/44759
+
+#URL of the branches
+https://github.com/AyrXZ47/jbbmo-Introduction-to-Git-and-GitHub/branches
